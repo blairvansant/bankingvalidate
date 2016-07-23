@@ -1,3 +1,9 @@
-body {
-	background-color: cyan;
+
+
+.validate: input: valid {
+	background: green;
+}
+
+.validate: input: invalid {
+background: red;
 }
